@@ -1,0 +1,3 @@
+# Fichier obligatoire
+
+Ce document doit décrire l'architecture, les technologies, la structure et les livrables du projet.
